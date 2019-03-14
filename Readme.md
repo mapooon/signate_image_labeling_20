@@ -33,7 +33,7 @@ https://signate.jp/competitions/108
     ```
     For detail, please see comments in train_gen.py.
 
-## Predicting
+## Prediction
 * Run 
     ```
     signate_image_labeling_20/src/models/wideresnet/predict_gen.py

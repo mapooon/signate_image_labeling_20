@@ -1,5 +1,5 @@
 # SIGNATE 画像ラベリング(20種類) Tutorial
-![ranking](https://github.com/mapooon/signate_image_labeling_20/ranking_20190312.jpg)
+![ranking](https://github.com/mapooon/signate_image_labeling_20/ranking_20190312.jpg)  
 Competition detail:  
 https://signate.jp/competitions/108
 ***

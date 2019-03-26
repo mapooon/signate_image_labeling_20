@@ -10,14 +10,6 @@ import os
 import numpy as np
 import pandas as pd
 from skimage import io
-import keras
-import tensorflow
-from keras.models import Model
-from sklearn.model_selection import train_test_split
-from keras.layers import Dense, GlobalAveragePooling2D
-from keras.optimizers import Adam
-from keras.regularizers import l2
-import keras.backend as K
 from tqdm import tqdm
 import shutil
 

@@ -89,7 +89,7 @@ validation_generator=validation_data_generator.flow_from_directory(
 #model loading
 model=get_model(input_shape=(32,32,3),n_class=20)
 
-#comile
+#compile
 opt = Adam(lr=0.0001)
 model.compile(optimizer=opt, loss='categorical_crossentropy', metrics=['accuracy'])
 model.summary()

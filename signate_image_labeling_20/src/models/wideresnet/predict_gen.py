@@ -32,7 +32,7 @@ tf.set_random_seed(0)
 sess = tf.Session(graph=tf.get_default_graph(), config=session_conf)
 K.set_session(sess)
 
-test_path='../../../data/test/'
+test_path='../../../data/gen/test/'
 
 test_sample=10000
 batch_size=256

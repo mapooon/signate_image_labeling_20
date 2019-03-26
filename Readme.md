@@ -1,4 +1,4 @@
-# SIGNATE 画像ラベリング(20種類) Tutorial
+# SIGNATE 【練習問題】画像ラベリング(20種類) Tutorial
 ![ranking](ranking_20190312.jpg)  
 Competition detail:  
 https://signate.jp/competitions/108
@@ -43,3 +43,10 @@ https://signate.jp/competitions/108
 
 ## Submission
 * Submit submission.csv to above URL.
+
+
+***
+## Source codes for Google Colab
+There are source codes for google colab in colab_notebooks/ .  
+To use them, upload them on google colab.  
+For detail, please see comments in train_gen.ipynb and predict_gen.ipynb.
